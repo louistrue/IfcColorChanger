@@ -2,7 +2,7 @@
 
 ## Overview
 `IFCColorChanger` is a Python-based tool designed to easily modify the color of materials in an IFC file. Utilizing a user-friendly PyQt5 interface, this tool reads a JSON file for color mapping and applies these changes to the selected IFC file.
-
+https://github.com/louistrue/IfcColorChanger/blob/main/IfcColorChangerUI.jpg
 ## Features
 - **Load IFC Files**: Open and view materials in any IFC file.
 - **Color Mapping**: Use a JSON file to map new colors to materials.
